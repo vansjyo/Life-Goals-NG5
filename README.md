@@ -1,5 +1,6 @@
-# Ng5
+# Life-Goals List@Ng5
 
+This is a basic todo-list or life-goals list app.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
 
 ## Development server
